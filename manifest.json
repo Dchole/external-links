@@ -1,6 +1,6 @@
 {
   "name": "External Links",
-  "description": "Open external links in a new tab",
+  "description": "Show external links on a webpage and highlight external links that open on the same tab.",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
