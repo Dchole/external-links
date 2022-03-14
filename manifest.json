@@ -1,7 +1,7 @@
 {
   "name": "External Links",
   "description": "Show external links on a webpage and highlight external links that open on the same tab.",
-  "version": "1.0",
+  "version": "0.0.1",
   "manifest_version": 3,
   "background": {
     "service_worker": "scripts/background.js"
