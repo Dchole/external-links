@@ -6,7 +6,6 @@ window.addEventListener("load", () => {
   )
 
   externalLinks.forEach(link => {
-    console.log({ link })
     if (link.target !== "_blank") {
       link.classList.add("target-links")
     }
